@@ -388,7 +388,7 @@
     "customscript/postprocessing_upscale.py/extras/Crop to fit/visible": true,
     "customscript/postprocessing_upscale.py/extras/Crop to fit/value": true,
     "customscript/postprocessing_upscale.py/extras/Upscaler 1/visible": true,
-    "customscript/postprocessing_upscale.py/extras/Upscaler 1/value": "None",
+    "customscript/postprocessing_upscale.py/extras/Upscaler 1/value": "R-ESRGAN 4x+ Anime6B",
     "customscript/postprocessing_upscale.py/extras/Upscaler 2/visible": true,
     "customscript/postprocessing_upscale.py/extras/Upscaler 2/value": "None",
     "customscript/postprocessing_upscale.py/extras/Upscaler 2 visibility/visible": true,
