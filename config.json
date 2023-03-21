@@ -67,8 +67,8 @@
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
     "sd_model_checkpoint": "Deliberate_v2.safetensors [9aba26abdf]",
-    "sd_checkpoint_cache": 3,
-    "sd_vae_checkpoint_cache": 1,
+    "sd_checkpoint_cache": 2,
+    "sd_vae_checkpoint_cache": 0,
     "sd_vae": "Automatic",
     "sd_vae_as_default": true,
     "inpainting_mask_weight": 1.0,
@@ -150,7 +150,7 @@
     "uni_pc_lower_order_final": true,
     "postprocessing_enable_in_main_ui": [],
     "postprocessing_operation_order": [],
-    "upscaling_max_images_in_cache": 5,
+    "upscaling_max_images_in_cache": 3,
     "disabled_extensions": [
         "sd_civitai_extension",
         "stable-diffusion-webui-images-browser"
