@@ -1,3 +1,4 @@
 stable-diffusion-webui
 sd-webui
 Stable-Diffusion-Webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
